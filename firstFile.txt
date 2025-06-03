@@ -2,8 +2,8 @@ Line 1 modified from git1 step 7
 Line 2 modified from git1 step 7
 Line 3 modified from git1 step 8
 Line 4 modified from git1 step 8
-Line 5
-Line 6
+Line 5 modified from git1 step 18 folder2
+Line 6 modified from git1 step 18 folder2
 Line 7
 Line 8
 Line 9
