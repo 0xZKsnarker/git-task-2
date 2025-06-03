@@ -6,5 +6,7 @@ Line 5
 Line 6
 Line 7
 Line 8 modified from git 1
-Line 9 modified from git 1
+Line 9 modified from git 1A
+Line 8 modified from git2
+Line 9 modified from git2
 Line 10
